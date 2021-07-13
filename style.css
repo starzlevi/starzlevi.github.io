@@ -14,3 +14,11 @@ section {
 #about {
   padding-top: 20rem;
 }
+
+.gallery2-img {
+  width: 100%;
+}
+
+#gallery2 .row > * {
+  padding: 0;
+}
